@@ -69,7 +69,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/bookd1.jpeg" alt="book discussions!" width="1100" height="500">
+      <img src="images/bookd1.jpg" alt="book discussions!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Book Discussions! </h3>
         <p></p>
@@ -99,7 +99,7 @@
 
 <div class="row">
   <div class=" col-lg-6 col-md-6 col-12 ">
-    <img src="images/about.jpeg" class="img-fluid aboutimg">
+    <img src="images/about.jpg" class="img-fluid aboutimg">
 
   </div>
   <div class=" col-lg-6 col-md-6 col-12 ">
