@@ -62,21 +62,21 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/bookdisc.jpg" alt="book discussions!" width="1100" height="500">
+      <img src="images/book1.jpg" alt="multiple genres!" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Multiple Genres! </h3>
+        <p></p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="images/bookd1.jpeg" alt="book discussions!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Book Discussions! </h3>
         <p></p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/multiplegenres.jpeg" alt="multiple genres!" width="1100" height="500">
-      <div class="carousel-caption">
-        <h3>Multiple Genres!</h3>
-        <p></p>
-      </div>   
-    </div>
-    <div class="carousel-item">
-      <img src="images/bakingconvo.jpg" alt="baking & conversations!" width="1100" height="500">
+      <img src="images/brownie1.jpg" alt="baking & conversations!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Baking & Conversation!</h3>
         <p></p>
@@ -120,7 +120,7 @@
   <div class= "row">
      <div class= "col-lg-4 col-md-4 col-12">
      <div class="card">
-  <img class="card-img-top" src="images/bookdisc2.jpg" alt="Card image">
+  <img class="card-img-top" src="images/bookd2.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Monthly Book Discussions</h4>
     <p class="card-text">Discussions on the chosen books of the month with favourite character unravelling!</p>
@@ -143,7 +143,7 @@
 </div>
 <div class= "col-lg-4 col-md-4 col-12" >
      <div class="card">
-  <img class="card-img-top" src="images/brownie.jpg" alt="Card image">
+  <img class="card-img-top" src="images/brownie2.jpg" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Brownie Sundays</h4>
     <p class="card-text">Have weekly baking and reading sessions with your fellow bookworms and baking enthusiasts!</p>
