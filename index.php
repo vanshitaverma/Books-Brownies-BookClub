@@ -62,21 +62,21 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/faciall.jpg" alt="facial" width="1100" height="500">
+      <img src="images/faciall.jpg" alt="book discussions!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Facial  </h3>
         <p></p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/hc.jpeg" alt="haircut" width="1100" height="500">
+      <img src="images/hc.jpeg" alt="multiple genres!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Haircut</h3>
         <p></p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/pedicuree.jpg" alt="pedicure" width="1100" height="500">
+      <img src="images/pedicuree.jpg" alt="baking & conversations!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Pedicure</h3>
         <p></p>
@@ -124,7 +124,7 @@
   <div class="card-body">
     <h4 class="card-title">Monthly Book Discussions</h4>
     <p class="card-text">Discussions on the chosen books of the month with favourite character unravelling!</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
+    <a href="#" class="btn btn-primary">Know More!</a>
   </div>
 </div>
   
@@ -135,7 +135,7 @@
   <div class="card-body">
     <h4 class="card-title">Vote for your favourites!</h4>
     <p class="card-text">Hybrid voting done to choose the next month's books and genres!</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
+    <a href="#" class="btn btn-primary">Know More!</a>
   </div>
   
 </div>
@@ -147,7 +147,7 @@
   <div class="card-body">
     <h4 class="card-title">Brownie Sundays</h4>
     <p class="card-text">Have weekly baking and reading sessions with your fellow bookworms and baking enthusiasts!</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
+    <a href="#" class="btn btn-primary">Know More!</a>
   </div>
 </div>
   
