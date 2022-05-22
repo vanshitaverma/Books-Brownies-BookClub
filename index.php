@@ -120,7 +120,7 @@
   <div class= "row">
      <div class= "col-lg-4 col-md-4 col-12">
      <div class="card">
-  <img class="card-img-top" src="images/book2.jpg" alt="Card image">
+  <img class="card-img-top" src="images/book2.jpg" height="260px" alt="Card image">
   <div class="card-body">
     <h4 class="card-title">Monthly Book Discussions</h4>
     <p class="card-text">Discussions on the chosen books of the month with favourite character unravelling!</p>

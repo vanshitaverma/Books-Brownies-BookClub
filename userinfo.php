@@ -10,7 +10,7 @@ else{
 }
 
 
-mysqli_select_db($con,'salondatabase');
+mysqli_select_db($con,'bookclubdatabase');
 
 
 $name = $_POST ['name'];
