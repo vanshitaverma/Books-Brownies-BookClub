@@ -76,7 +76,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/brownie1.jpg" alt="baking & conversations!" width="1100" height="500">
+      <img src="images/brownie1.webp" alt="baking & conversations!" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Baking & Conversation!</h3>
         <p></p>
