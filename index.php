@@ -99,7 +99,7 @@
 
 <div class="row">
   <div class=" col-lg-6 col-md-6 col-12 ">
-    <img src="images/salon.jpeg" class="img-fluid aboutimg">
+    <img src="images/about.jpeg" class="img-fluid aboutimg">
 
   </div>
   <div class=" col-lg-6 col-md-6 col-12 ">
